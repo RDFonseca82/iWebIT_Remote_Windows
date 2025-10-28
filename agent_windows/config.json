@@ -1,0 +1,7 @@
+{
+  "serverUrl": "ws://127.0.0.1:8443",
+  "agentId": "agent-office-01",
+  "preSharedKey": "supersecret_local_key",
+  "captureIntervalMs": 500,
+  "enableInteractive": true
+}
